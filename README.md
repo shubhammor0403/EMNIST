@@ -7,7 +7,7 @@ Developed by @shubhammor0403
 <a href="https://imgflip.com/gif/2eb1pw"><img src="https://i.imgflip.com/2eb1pw.gif" align = "center" height = "280" width = "480"/></a>
 </div>
 
-Implementation of this model in an android application can be found at :- <a href="https://github.com/shubhammor0403/EMNIST_Android">EMNIST GITHUB</a>
+Implementation of this model in an android application can be found at :- <a href="https://github.com/shubhammor0403/EMNIST_Android">EMNIST ANDROID</a>
 
 # Description
 
