@@ -26,7 +26,9 @@ This project offers a new solution to traditional handwriting recognition techni
 
 # Usage
 <ul>
-  <li>Download the EMNIST dataset and place the binary files in a new folder with the name data.</li>
+  <li>Download the EMNIST byclass dataset and place the binary files in the data folder(Create a new folder named data).<br>
+    <a href="http://www.itl.nist.gov/iaui/vip/cs_links/EMNIST/gzip.zip">Emnist Dataset</a></li>
+  
   <li>Create and train a model using modeltrain.ipynb (or use the provided model)</li>
   <li>Test out the model using segment.ipynb</li>
   </ul>
